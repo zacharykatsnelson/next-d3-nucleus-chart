@@ -1,0 +1,41 @@
+{
+  "name": "flare",
+  "children": [
+    {
+      "name": "TP-03-NR",
+      "children": [
+        { "name": "1.3 mites", "value": 1000 },
+        { "name": "4.6 mites", "value": 200 },
+        { "name": "7.9 mites", "value": 100 },
+        { "name": ">7.9 mites", "value": 20 }
+      ]
+    },
+    {
+      "name": "TP-03-R",
+      "children": [
+        { "name": "1.3 mites", "value": 500 },
+        { "name": "4.6 mites", "value": 200 },
+        { "name": "7.9 mites", "value": 100 },
+        { "name": ">7.9 mites", "value": 20 }
+      ]
+    },
+    {
+      "name": "VEH-NR",
+      "children": [
+        { "name": "1.3 mites", "value": 100 },
+        { "name": "4.6 mites", "value": 300 },
+        { "name": "7.9 mites", "value": 400 },
+        { "name": ">7.9 mites", "value": 20 }
+      ]
+    },
+    {
+      "name": "VEH-R",
+      "children": [
+        { "name": "1.3 mites", "value": 300 },
+        { "name": "4.6 mites", "value": 400 },
+        { "name": "7.9 mites", "value": 20 },
+        { "name": ">7.9 mites", "value": 100 }
+      ]
+    }
+  ]
+}
